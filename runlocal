@@ -1,0 +1,3 @@
+#!/bin/sh
+
+sudo puppet  --confdir . manifests/site.pp
