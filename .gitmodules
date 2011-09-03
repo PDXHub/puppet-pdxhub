@@ -1,0 +1,9 @@
+[submodule "modules/apt"]
+	path = modules/apt
+	url = https://github.com/evolvingweb/puppet-apt.git
+[submodule "modules/sudo"]
+	path = modules/sudo
+	url = https://github.com/camptocamp/puppet-sudo.git
+[submodule "modules/common"]
+	path = modules/common
+	url = https://github.com/camptocamp/puppet-common.git
